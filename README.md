@@ -19,6 +19,28 @@ more effective banana supply management. In conclusion, the results of the resea
 used to detect plantains with fairly good accuracy. This research can also be developed to 
 help become a practical sorting tool.
 </p>
+
+<details>
+  <summary><b>Team Project</summary>
+    <ul>
+      <li>
+        <a href="https://github.com/albanijohanes">
+          Albani Boutje Johanes as Leader Team
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Giordyano">
+          Giordyano Anhar
+        </a>
+      </li>
+      <li>
+        <a>
+          Kevin Pesik
+        </a>
+      </li>
+    </ul>
+</details>
+
 <br>
 <h3>Architecture CNN</h3>
 
@@ -63,4 +85,5 @@ help become a practical sorting tool.
 </details>
 
 
-<h2>If you interested with me you can visit and talk more on social media <a href="https://github.com/albanijohanes">Check it on my github here</a></h2>
+<h2>If you interested with me you can visit and talk more on social media</h2> 
+<h2><a href="https://github.com/albanijohanes">Check it on my github here</a></h2>
