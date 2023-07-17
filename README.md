@@ -20,7 +20,7 @@ used to detect plantains with fairly good accuracy. This research can also be de
 help become a practical sorting tool.
 </p>
 
-<details>
+<details align="center">
   <summary><b>Team Project</summary>
     <ul>
       <li>
